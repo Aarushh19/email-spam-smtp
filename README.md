@@ -18,7 +18,7 @@ To understand how SMTP allows email spoofing due to lack of built-in authenticat
 5. Verified delivery acceptance by the server.
 
 ## 📸 Screenshot
-![Spam Email](https://raw.githubusercontent.com/Aarushh19/email-spam-smtp/main/image.png)
+![Spam Email Screenshot](https://raw.githubusercontent.com/Aarushh19/email-spam-smtp/main/Spam%20Email.png)
 
 
 ## ✅ Learning Outcome
